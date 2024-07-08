@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLGS55Pfhw+y3vyWcD2VY/dqxSHhmP6iHfkZ3EOe37GJQADX1510BvDLaZvx9Ov7IU/8OCY7Es+0b380O5ZxHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\Docker\\DotnetMvcApp\\DotnetMvcApp\\DotnetMvcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elchin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
